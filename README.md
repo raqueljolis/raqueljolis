@@ -10,6 +10,7 @@ I am a student of **Data Science and Engineering** at the Universitat Politècni
 - R
 - SQL
 - MATLAB
+- Spark
   
 
 ### Projects
