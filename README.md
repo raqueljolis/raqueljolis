@@ -5,12 +5,12 @@ I am a student of **Data Science and Engineering** at the Universitat Politècni
 
 
 ## 🛠 Programmig Languages and skills
-![Python](https://progress-bar.dev/90/?title=Python&width=500&color=brightgreen)
-![C++](https://progress-bar.dev/80/?title=C++&width=500&color=blue)
-![SQL](https://progress-bar.dev/80/?title=SQL&width=500&color=purple)
-![R](https://progress-bar.dev/75/?title=R&width=500&color=red)
-![MATLAB](https://progress-bar.dev/65/?title=MATLAB&width=500&color=purple)
-
+- Python
+- C++
+- R
+- SQL
+- MATLAB
+  
 
 ### Projects
  **1. Machine Learning-Based Classification of Eucalyptus Species - A Comparative Evaluation:** this project aim to develop and compare various machine learning models to determine which one best predicts Eucalyptus species based on selected features.
